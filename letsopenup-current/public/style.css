@@ -1,0 +1,203 @@
+.navbar-simple, .brand {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 10px;
+}
+.navbar-simple, .navbar-inner {
+    background: #fff;
+    filter: none !important;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0 2px 15px rgba(0,0,0,0.25);
+    -webkit-box-shadow: 0 2px 15px rgba(0,0,0,0.25);
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.glyphicon
+{
+
+    display: block;
+    text-align: center;
+}
+
+.other-clr2{
+    background-color: white;
+}
+
+
+body {
+    background-repeat:no-repeat;
+    background-color: #b0c4de;
+}
+
+
+
+.navbar-text
+{
+    font-family: 'carter one',Arial;
+    font-size: 48px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 30px;
+}
+
+.carousel-control {
+    width:5%;
+
+}
+.font-style
+{
+    font-family: 'Carter One', Arial ;
+    font-size: 40px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight:normal;
+
+}
+
+.font-styles1
+{
+    font-family: 'Carter One', Arial ;
+    font-size: 40px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight:normal;
+
+    color: white;
+}
+
+.font-style2
+{
+
+font-family: 'Open Sans', Arial ;
+    font-size: 19px;
+    font-style:normal;
+    font-variant: normal;
+    max-height: 250px;
+    min-height: 250px;
+    width: auto;
+    color: black;
+    font-weight: bolder;
+}
+
+
+.font-styles2
+{
+
+    font-family: 'Open Sans', Arial ;
+    font-size: 19px;
+    font-style:normal;
+    font-variant: normal;
+    width: auto;
+    color: white;
+    font-weight: bolder;
+}
+
+.font-style3 {
+
+    font-family: 'Open Sans', Arial;
+    font-size: 22px;
+    font-style: normal;
+    font-variant: normal;
+}
+
+.font-style4
+{
+    font-family: 'Carter One', Arial ;
+    font-size: 35px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight:normal;
+    line-height: 30px;
+    color: black;
+}
+
+.font-styles4
+{
+    font-family: 'Carter One', Arial ;
+    font-size: 35px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight:normal;
+    color: white;
+}
+
+
+.font-style5
+{
+    font-family: 'Carter One', Arial ;
+    font-size: 30px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight:normal;
+    color: black;
+}
+.panel-head
+{
+    max-height: 80px;
+    min-height: 80px;
+    width: auto;
+}
+.padding
+{
+
+    padding-bottom: 2px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left:20px;
+}
+
+
+.other-color
+{
+    background-color: transparent;
+}
+
+.pad3
+{
+
+    padding-top: 20px;
+}
+
+.fontwhite
+{
+    color: white;
+}
+
+
+.adjust-panel
+{
+    padding-bottom: 2px;
+    padding-right: 140px;
+    padding-top: 10px;
+    padding-left:140px;
+}
+
+.adjust-logo
+{
+    padding-bottom: 2px;
+    padding-top: 60px;
+    padding-left:112px;
+}
+
+.panel-dimension
+{
+    max-height: 1000px;
+    min-height: 1000px;
+}
+
+.font-style-nav
+{
+    font-family: 'Carter One', Arial ;
+    font-size: 17px;
+
+}
+.adjust-panel-pad
+{
+
+    padding-bottom: 2px;
+    padding-top: 60px;
+    padding-left:100px;
+
+}
